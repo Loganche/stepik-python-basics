@@ -1,3 +1,4 @@
+import requests
 
 averages = []
 counter = 0
